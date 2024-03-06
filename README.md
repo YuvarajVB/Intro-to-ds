@@ -80,6 +80,9 @@ STEP 6: Use zscore of to remove outliers
 ![30](https://github.com/YuvarajVB/Intro-to-ds/assets/151488375/60beb905-5d35-4dc2-9740-096eae46016c)
 
 
+# RESULT
+        Thus the given data is read and data cleaning is performed.
+
 
 
 
